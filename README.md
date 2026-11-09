@@ -115,7 +115,7 @@ Users can enter customer details and receive:
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RohanWayal10/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 ```
 
